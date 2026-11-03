@@ -1,0 +1,14 @@
+{
+  "name": "cf-primitives",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cloudflare Developer Platform keynote deck with live Durable Object demos, deployable as a Worker.",
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.40.0"
+  }
+}
