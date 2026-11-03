@@ -61,6 +61,11 @@ Object.assign(BRANDS, {
   mcp: ["Model Context Protocol", "var(--fg)", "M13.85 0a4.16 4.16 0 0 0-2.95 1.217L1.456 10.66a.835.835 0 0 0 0 1.18.835.835 0 0 0 1.18 0l9.442-9.442a2.49 2.49 0 0 1 3.541 0 2.49 2.49 0 0 1 0 3.541L8.59 12.97l-.1.1a.835.835 0 0 0 0 1.18.835.835 0 0 0 1.18 0l.1-.098 7.03-7.034a2.49 2.49 0 0 1 3.542 0l.049.05a2.49 2.49 0 0 1 0 3.54l-8.54 8.54a1.96 1.96 0 0 0 0 2.755l1.753 1.753a.835.835 0 0 0 1.18 0 .835.835 0 0 0 0-1.18l-1.753-1.753a.266.266 0 0 1 0-.394l8.54-8.54a4.185 4.185 0 0 0 0-5.9l-.05-.05a4.16 4.16 0 0 0-2.95-1.218c-.2 0-.401.02-.6.048a4.17 4.17 0 0 0-1.17-3.552A4.16 4.16 0 0 0 13.85 0m0 3.333a.84.84 0 0 0-.59.245L6.275 10.56a4.186 4.186 0 0 0 0 5.902 4.186 4.186 0 0 0 5.902 0L19.16 9.48a.835.835 0 0 0 0-1.18.835.835 0 0 0-1.18 0l-6.985 6.984a2.49 2.49 0 0 1-3.54 0 2.49 2.49 0 0 1 0-3.54l6.983-6.985a.835.835 0 0 0 0-1.18.84.84 0 0 0-.59-.245"],
   postgres: ["PostgreSQL", "#4169E1", "M23.5594 14.7228a.5269.5269 0 0 0-.0563-.1191c-.139-.2632-.4768-.3418-1.0074-.2321-1.6533.3411-2.2935.1312-2.5256-.0191 1.342-2.0482 2.445-4.522 3.0411-6.8297.2714-1.0507.7982-3.5237.1222-4.7316a1.5641 1.5641 0 0 0-.1509-.235C21.6931.9086 19.8007.0248 17.5099.0005c-1.4947-.0158-2.7705.3461-3.1161.4794a9.449 9.449 0 0 0-.5159-.0816 8.044 8.044 0 0 0-1.3114-.1278c-1.1822-.0184-2.2038.2642-3.0498.8406-.8573-.3211-4.7888-1.645-7.2219.0788C.9359 2.1526.3086 3.8733.4302 6.3043c.0409.818.5069 3.334 1.2423 5.7436.4598 1.5065.9387 2.7019 1.4334 3.582.553.9942 1.1259 1.5933 1.7143 1.7895.4474.1491 1.1327.1441 1.8581-.7279.8012-.9635 1.5903-1.8258 1.9446-2.2069.4351.2355.9064.3625 1.39.3772a.0569.0569 0 0 0 .0004.0041 11.0312 11.0312 0 0 0-.2472.3054c-.3389.4302-.4094.5197-1.5002.7443-.3102.064-1.1344.2339-1.1464.8115-.0025.1224.0329.2309.0919.3268.2269.4231.9216.6097 1.015.6331 1.3345.3335 2.5044.092 3.3714-.6787-.017 2.231.0775 4.4174.3454 5.0874.2212.5529.7618 1.9045 2.4692 1.9043.2505 0 .5263-.0291.8296-.0941 1.7819-.3821 2.5557-1.1696 2.855-2.9059.1503-.8707.4016-2.8753.5388-4.1012.0169-.0703.0357-.1207.057-.1362.0007-.0005.0697-.0471.4272.0307a.3673.3673 0 0 0 .0443.0068l.2539.0223.0149.001c.8468.0384 1.9114-.1426 2.5312-.4308.6438-.2988 1.8057-1.0323 1.5951-1.6698zM2.371 11.8765c-.7435-2.4358-1.1779-4.8851-1.2123-5.5719-.1086-2.1714.4171-3.6829 1.5623-4.4927 1.8367-1.2986 4.8398-.5408 6.108-.13-.0032.0032-.0066.0061-.0098.0094-2.0238 2.044-1.9758 5.536-1.9708 5.7495-.0002.0823.0066.1989.0162.3593.0348.5873.0996 1.6804-.0735 2.9184-.1609 1.1504.1937 2.2764.9728 3.0892.0806.0841.1648.1631.2518.2374-.3468.3714-1.1004 1.1926-1.9025 2.1576-.5677.6825-.9597.5517-1.0886.5087-.3919-.1307-.813-.5871-1.2381-1.3223-.4796-.839-.9635-2.0317-1.4155-3.5126zm6.0072 5.0871c-.1711-.0428-.3271-.1132-.4322-.1772.0889-.0394.2374-.0902.4833-.1409 1.2833-.2641 1.4815-.4506 1.9143-1.0002.0992-.126.2116-.2687.3673-.4426a.3549.3549 0 0 0 .0737-.1298c.1708-.1513.2724-.1099.4369-.0417.156.0646.3078.26.3695.4752.0291.1016.0619.2945-.0452.4444-.9043 1.2658-2.2216 1.2494-3.1676 1.0128zm2.094-3.988-.0525.141c-.133.3566-.2567.6881-.3334 1.003-.6674-.0021-1.3168-.2872-1.8105-.8024-.6279-.6551-.9131-1.5664-.7825-2.5004.1828-1.3079.1153-2.4468.079-3.0586-.005-.0857-.0095-.1607-.0122-.2199.2957-.2621 1.6659-.9962 2.6429-.7724.4459.1022.7176.4057.8305.928.5846 2.7038.0774 3.8307-.3302 4.7363-.084.1866-.1633.3629-.2311.5454zm7.3637 4.5725c-.0169.1768-.0358.376-.0618.5959l-.146.4383a.3547.3547 0 0 0-.0182.1077c-.0059.4747-.054.6489-.115.8693-.0634.2292-.1353.4891-.1794 1.0575-.11 1.4143-.8782 2.2267-2.4172 2.5565-1.5155.3251-1.7843-.4968-2.0212-1.2217a6.5824 6.5824 0 0 0-.0769-.2266c-.2154-.5858-.1911-1.4119-.1574-2.5551.0165-.5612-.0249-1.9013-.3302-2.6462.0044-.2932.0106-.5909.019-.8918a.3529.3529 0 0 0-.0153-.1126 1.4927 1.4927 0 0 0-.0439-.208c-.1226-.4283-.4213-.7866-.7797-.9351-.1424-.059-.4038-.1672-.7178-.0869.067-.276.1831-.5875.309-.9249l.0529-.142c.0595-.16.134-.3257.213-.5012.4265-.9476 1.0106-2.2453.3766-5.1772-.2374-1.0981-1.0304-1.6343-2.2324-1.5098-.7207.0746-1.3799.3654-1.7088.5321a5.6716 5.6716 0 0 0-.1958.1041c.0918-1.1064.4386-3.1741 1.7357-4.4823a4.0306 4.0306 0 0 1 .3033-.276.3532.3532 0 0 0 .1447-.0644c.7524-.5706 1.6945-.8506 2.802-.8325.4091.0067.8017.0339 1.1742.081 1.939.3544 3.2439 1.4468 4.0359 2.3827.8143.9623 1.2552 1.9315 1.4312 2.4543-1.3232-.1346-2.2234.1268-2.6797.779-.9926 1.4189.543 4.1729 1.2811 5.4964.1353.2426.2522.4522.2889.5413.2403.5825.5515.9713.7787 1.2552.0696.087.1372.1714.1885.245-.4008.1155-1.1208.3825-1.0552 1.717-.0123.1563-.0423.4469-.0834.8148-.0461.2077-.0702.4603-.0994.7662zm.8905-1.6211c-.0405-.8316.2691-.9185.5967-1.0105a2.8566 2.8566 0 0 0 .135-.0406 1.202 1.202 0 0 0 .1342.103c.5703.3765 1.5823.4213 3.0068.1344-.2016.1769-.5189.3994-.9533.6011-.4098.1903-1.0957.333-1.7473.3636-.7197.0336-1.0859-.0807-1.1721-.151zm.5695-9.2712c-.0059.3508-.0542.6692-.1054 1.0017-.055.3576-.112.7274-.1264 1.1762-.0142.4368.0404.8909.0932 1.3301.1066.887.216 1.8003-.2075 2.7014a3.5272 3.5272 0 0 1-.1876-.3856c-.0527-.1276-.1669-.3326-.3251-.6162-.6156-1.1041-2.0574-3.6896-1.3193-4.7446.3795-.5427 1.3408-.5661 2.1781-.463zm.2284 7.0137a12.3762 12.3762 0 0 0-.0853-.1074l-.0355-.0444c.7262-1.1995.5842-2.3862.4578-3.4385-.0519-.4318-.1009-.8396-.0885-1.2226.0129-.4061.0666-.7543.1185-1.0911.0639-.415.1288-.8443.1109-1.3505.0134-.0531.0188-.1158.0118-.1902-.0457-.4855-.5999-1.938-1.7294-3.253-.6076-.7073-1.4896-1.4972-2.6889-2.0395.5251-.1066 1.2328-.2035 2.0244-.1859 2.0515.0456 3.6746.8135 4.8242 2.2824a.908.908 0 0 1 .0667.1002c.7231 1.3556-.2762 6.2751-2.9867 10.5405zm-8.8166-6.1162c-.025.1794-.3089.4225-.6211.4225a.5821.5821 0 0 1-.0809-.0056c-.1873-.026-.3765-.144-.5059-.3156-.0458-.0605-.1203-.178-.1055-.2844.0055-.0401.0261-.0985.0925-.1488.1182-.0894.3518-.1226.6096-.0867.3163.0441.6426.1938.6113.4186zm7.9305-.4114c.0111.0792-.049.201-.1531.3102-.0683.0717-.212.1961-.4079.2232a.5456.5456 0 0 1-.075.0052c-.2935 0-.5414-.2344-.5607-.3717-.024-.1765.2641-.3106.5611-.352.297-.0414.6111.0088.6356.1851z"],
 });
+// CI/CD marks (Simple Icons): GitLab and GitHub Actions.
+Object.assign(BRANDS, {
+  gitlab: ["GitLab", "#FC6D26", "m23.6004 9.5927-.0337-.0862L20.3.9814a.851.851 0 0 0-.3362-.405.8748.8748 0 0 0-.9997.0539.8748.8748 0 0 0-.29.4399l-2.2055 6.748H7.5375l-2.2057-6.748a.8573.8573 0 0 0-.29-.4412.8748.8748 0 0 0-.9997-.0537.8585.8585 0 0 0-.3362.4049L.4332 9.5015l-.0325.0862a6.0657 6.0657 0 0 0 2.0119 7.0105l.0113.0087.03.0213 4.976 3.7264 2.462 1.8633 1.4995 1.1321a1.0085 1.0085 0 0 0 1.2197 0l1.4995-1.1321 2.4619-1.8633 5.006-3.7489.0125-.01a6.0682 6.0682 0 0 0 2.0094-7.003z"],
+  githubactions: ["GitHub Actions", "#2088FF", "M10.984 13.836a.5.5 0 0 1-.353-.146l-.745-.743a.5.5 0 1 1 .706-.708l.392.391 1.181-1.18a.5.5 0 0 1 .708.707l-1.535 1.533a.504.504 0 0 1-.354.146zm9.353-.147l1.534-1.532a.5.5 0 0 0-.707-.707l-1.181 1.18-.392-.391a.5.5 0 1 0-.706.708l.746.743a.497.497 0 0 0 .706-.001zM4.527 7.452l2.557-1.585A1 1 0 0 0 7.09 4.17L4.533 2.56A1 1 0 0 0 3 3.406v3.196a1.001 1.001 0 0 0 1.527.85zm2.03-2.436L4 6.602V3.406l2.557 1.61zM24 12.5c0 1.93-1.57 3.5-3.5 3.5a3.503 3.503 0 0 1-3.46-3h-2.08a3.503 3.503 0 0 1-3.46 3 3.502 3.502 0 0 1-3.46-3h-.558c-.972 0-1.85-.399-2.482-1.042V17c0 1.654 1.346 3 3 3h.04c.244-1.693 1.7-3 3.46-3 1.930 0 3.5 1.57 3.5 3.5S13.43 24 11.5 24a3.502 3.502 0 0 1-3.46-3H8c-2.206 0-4-1.794-4-4V9.899A5.008 5.008 0 0 1 0 5c0-2.757 2.243-5 5-5s5 2.243 5 5a5.005 5.005 0 0 1-4.952 4.998A2.482 2.482 0 0 0 7.482 12h.558c.244-1.693 1.7-3 3.460-3a3.502 3.502 0 0 1 3.46 3h2.08a3.503 3.503 0 0 1 3.46-3c1.93 0 3.5 1.57 3.5 3.5zm-15 8c0 1.378 1.122 2.5 2.5 2.5s2.5-1.122 2.5-2.5-1.122-2.5-2.5-2.5S9 19.122 9 20.5zM5 9c2.206 0 4-1.794 4-4S7.206 1 5 1 1 2.794 1 5s1.794 4 4 4zm9 3.5c0-1.378-1.122-2.5-2.5-2.5S9 11.122 9 12.5s1.122 2.5 2.5 2.5 2.5-1.122 2.5-2.5zm9 0c0-1.378-1.122-2.5-2.5-2.5S18 11.122 18 12.5s1.122 2.5 2.5 2.5 2.5-1.122 2.5-2.5zm-13 8a.5.5 0 1 0 1 0 .5.5 0 0 0-1 0zm2 0a.5.5 0 1 0 1 0 .5.5 0 0 0-1 0zm12 0c0 1.93-1.57 3.5-3.5 3.5a3.503 3.503 0 0 1-3.46-3.002c-.007.001-.013.005-.021.005l-.506.017h-.017a.5.5 0 0 1-.016-.999l.506-.017c.018-.002.035.006.052.007A3.503 3.503 0 0 1 20.5 17c1.93 0 3.5 1.57 3.5 3.5zm-1 0c0-1.378-1.122-2.5-2.5-2.5S18 19.122 18 20.5s1.122 2.5 2.5 2.5 2.5-1.122 2.5-2.5z"],
+});
 function brand(k, size = 40) {
   const [name, color, d] = BRANDS[k];
   return `<svg class="brand" viewBox="0 0 24 24" width="${size}" height="${size}" role="img" aria-label="${name}"><path style="fill:${color}" d="${d}"/></svg>`;
@@ -261,6 +266,7 @@ const LEX = {
   sql: /(?<c>--[^\n]*)|(?<s>'(?:''|[^'])*')|(?<n>\b\d+(?:\.\d+)?\b)|(?<id>[A-Za-z_][\w.]*)|(?<ws>\s+)|(?<o>.)/g,
   html: /(?<c><!--[\s\S]*?-->)|(?<s>"[^"]*"|'[^']*')|(?<tg><\/?[\w-]+|\/?>)|(?<id>[A-Za-z_:][\w:.-]*)|(?<ws>\s+)|(?<o>.)/g,
   docker: /(?<c>#[^\n]*)|(?<s>"(?:\\.|[^"\\\n])*")|(?<n>\b\d+\b)|(?<id>[A-Za-z_][\w.:/-]*)|(?<ws>\s+)|(?<o>.)/g,
+  yaml: /(?<c>(?:^|(?<=\s))#[^\n]*)|(?<s>"(?:\\.|[^"\\\n])*"|'[^'\n]*')|(?<v>\$\{\{[^}\n]*\}\}|\$[A-Za-z_]\w*)|(?<ky>[A-Za-z_][\w.-]*(?=:(?:\s|$)))|(?<id>[A-Za-z_./@][\w./:@-]*)|(?<n>\b\d+(?:\.\d+)?\b)|(?<ws>\s+)|(?<o>.)/g,
 };
 LEX.tsx = LEX.ts; LEX.jsonc = LEX.ts; LEX.json = LEX.ts; LEX.js = LEX.ts;
 
@@ -279,10 +285,12 @@ function tokenize(code, lang) {
     else if (g.v) cls = "n";
     else if (g.fl) cls = "p";
     else if (g.tg) cls = "k";
+    else if (g.ky) cls = "y";
     else if (g.n) cls = "n";
     else if (g.id) {
       const id = g.id;
-      if (lang === "sql") cls = KW.sql.has(id.toUpperCase()) ? "k" : "pl";
+      if (lang === "yaml") cls = KW.lit.has(id) ? "n" : "s";
+      else if (lang === "sql") cls = KW.sql.has(id.toUpperCase()) ? "k" : "pl";
       else if (lang === "sh") cls = lineStart ? "f" : "pl";
       else if (lang === "html") cls = "p";
       else if (lang === "docker") cls = KW.docker.has(id) ? "k" : "pl";
@@ -433,6 +441,7 @@ const LANG_META = {
   sql: { icon: () => icoSvg("db"), name: "SQL" },
   html: { icon: () => icoSvg("code"), name: "HTML" },
   docker: { icon: () => icoSvg("box"), name: "Dockerfile" },
+  yaml: { icon: () => icoSvg("file"), name: "YAML" },
 };
 
 function codeWindow(ctx, spec, opts = {}) {
@@ -444,10 +453,10 @@ function codeWindow(ctx, spec, opts = {}) {
   const btns = prepared.map((t, i) => h("button", {
     class: "code-tab" + (i === 0 ? " on" : ""), type: "button",
     onclick: (e) => { e.stopPropagation(); select(i, false); },
-  }, h("span", { class: "lt-ic", html: LANG_META[t.lang]?.icon() || "" }), t.label || LANG_META[t.lang]?.name || t.lang));
+  }, h("span", { class: "lt-ic", html: t.icon || LANG_META[t.lang]?.icon() || "" }), t.label || LANG_META[t.lang]?.name || t.lang));
   const right = prepared.length > 1
     ? h("div", { class: "code-tabs" }, btns)
-    : h("div", { class: "code-lang" }, h("span", { class: "lt-ic", html: LANG_META[prepared[0].lang]?.icon() || "" }), prepared[0].label || LANG_META[prepared[0].lang]?.name);
+    : h("div", { class: "code-lang" }, h("span", { class: "lt-ic", html: prepared[0].icon || LANG_META[prepared[0].lang]?.icon() || "" }), prepared[0].label || LANG_META[prepared[0].lang]?.name);
   const win = A(h("div", { class: `code ${opts.cls || ""}`, style: opts.style },
     h("div", { class: "code-top" }, h("div", { class: "tl" }, h("i"), h("i"), h("i")), file, right),
     body), opts.delay ?? 300);
@@ -4775,6 +4784,290 @@ DEMO_CSS += `
 .ucs-p svg{width:15px;height:15px;flex:none;color:var(--orange)}
 `;
 
+// ---------- CI/CD + Previews (Intro, right after "The developer loop") ----------
+// Commands, defaults and limits follow developers.cloudflare.com/workers/ci-cd and /workers/previews.
+// Repo names, commit SHAs and deployment IDs are illustrative.
+const cicTop = (title, lead) => h("div", { class: "cic-top" },
+  A(h("h1", { class: "t1", html: fmt(title) }), 0),
+  A(h("p", { class: "lead", html: fmt(lead) }), 100));
+
+// Animated Workers Builds run: push → build → deploy|preview → live, alternating main / feature branch.
+function ciPipeline(ctx) {
+  const RUNS = [
+    { br: "main", sha: "a41f9c2", st: "Deploy", cmd: "npx wrangler deploy", live: "Production", res: "Version `8c1e2f0` promoted to the **active deployment**" },
+    { br: "feature/login", sha: "5d07b3e", st: "Preview", cmd: "npx wrangler preview", live: "Preview URL", res: "`feature-login-acme-app.acme.workers.dev` posted to PR **#42**", gh: true },
+  ];
+  const brs = RUNS.map((r) => h("span", { class: "cic-br" }, ico("git"), r.br));
+  const stages = [["git", "Push"], ["box", "Build"], ["upload", "Deploy"], ["globe", "Live"]].map(([i, t]) => {
+    const name = h("b", {}, t), sub = h("span", { class: "cic-st-s" });
+    return { el: h("div", { class: "cic-st" }, h("span", { class: "cic-st-ic", html: icoSvg(i) }), name, sub), name, sub };
+  });
+  const cons = [0, 1, 2].map(() => h("i", { class: "cic-cn" }));
+  const pipe = h("div", { class: "cic-pipe" });
+  stages.forEach((s, i) => { pipe.append(s.el); if (cons[i]) pipe.append(cons[i]); });
+  const res = h("div", { class: "cic-res" });
+  async function run(r, k) {
+    brs.forEach((b, j) => b.classList.toggle("on", j === k));
+    const subs = [`git push · ${r.sha}`, "npm run build", r.cmd, r.live];
+    stages.forEach((s, i) => { s.el.className = "cic-st"; s.sub.textContent = subs[i]; });
+    stages[2].name.textContent = r.st;
+    cons.forEach((c) => c.classList.remove("on"));
+    res.classList.remove("show");
+    res.innerHTML = (r.gh ? brand("github", 18) : `<span class="cic-ok">${icoSvg("check", 2.4)}</span>`) + `<span>${fmt(r.res)}</span>`;
+    await ctx.sleep(500);
+    for (let i = 0; i < stages.length; i++) {
+      stages[i].el.classList.add("run");
+      await ctx.sleep(i === 1 ? 1500 : 950);
+      stages[i].el.classList.remove("run");
+      stages[i].el.classList.add("ok");
+      if (cons[i]) { cons[i].classList.add("on"); await ctx.sleep(380); }
+    }
+    res.classList.add("show");
+    await ctx.sleep(3200);
+  }
+  ctx.loop(async () => { for (let k = 0; k < RUNS.length; k++) await run(RUNS[k], k); }, 200);
+  return h("div", { class: "cic-pl" },
+    h("div", { class: "cic-brs" }, h("span", { class: "cic-brs-l" }, "on push to"), brs),
+    pipe, res);
+}
+
+function ciBuildsCard(ctx) {
+  const facts = [
+    ["terminal", "Build, then deploy", "Optional `npm run build`, then `npx wrangler deploy` on the production branch."],
+    ["git", "Preview builds", "Every other branch runs `npx wrangler preview` and gets its own URL."],
+    ["sparkles", "Autoconfig", "No Wrangler config yet? Builds detects the framework and opens a PR."],
+    ["layers", "Monorepos & CI vars", "Root directory per Worker; `WORKERS_CI_BRANCH` and `WORKERS_CI_COMMIT_SHA` injected."],
+  ];
+  return h("div", { class: "cic-col" },
+    h("div", { class: "cic-h" },
+      h("span", { class: "cic-n" }, "01"),
+      h("div", { class: "cic-ht" }, h("h3", {}, "Workers Builds"), h("span", {}, "Built into Cloudflare")),
+      h("div", { class: "cic-src" },
+        h("span", { class: "cic-art", title: "Artifacts", html: picon("artifacts") }),
+        h("span", { title: "GitHub", html: brand("github", 26) }),
+        h("span", { title: "GitLab", html: brand("gitlab", 26) }))),
+    h("p", { class: "cic-d", html: fmt("Connect a repo on **Artifacts**, **GitHub** or **GitLab**. Every push builds and deploys on Cloudflare, with the API token created for you.") }),
+    ciPipeline(ctx),
+    h("div", { class: "cic-facts" }, facts.map(([i, t, d]) => h("div", { class: "cic-f" },
+      h("span", { class: "cic-f-ic", html: icoSvg(i) }),
+      h("div", {}, h("b", {}, t), h("p", { html: fmt(d) }))))),
+    h("div", { class: "cic-lim" }, ["up to 4 vCPU", "8 GB RAM", "20 GB disk", "20 min timeout", "logs kept 90 days"].map((t) => h("span", {}, t))));
+}
+
+const CI_GHA = `name: Deploy Worker
+on:
+  push:
+    branches: [main]
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - run: npm ci && npm run build
+      - uses: cloudflare/wrangler-action@v4
+        with:
+          apiToken: \${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: \${{ secrets.CLOUDFLARE_ACCOUNT_ID }}`;
+const CI_GITLAB = `# CLOUDFLARE_API_TOKEN and CLOUDFLARE_ACCOUNT_ID are
+# masked CI/CD variables in the project settings
+deploy:
+  stage: deploy
+  image: node:22
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+  script:
+    - npm ci
+    - npm run build
+    - npx wrangler deploy`;
+
+function ciExternalCard(ctx) {
+  return h("div", { class: "cic-col" },
+    h("div", { class: "cic-h" },
+      h("span", { class: "cic-n" }, "02"),
+      h("div", { class: "cic-ht" }, h("h3", {}, "External CI/CD"), h("span", {}, "Keep the pipeline you have")),
+      h("div", { class: "cic-src" },
+        h("span", { title: "GitHub Actions", html: brand("githubactions", 26) }),
+        h("span", { title: "GitLab CI/CD", html: brand("gitlab", 26) }))),
+    h("div", { class: "cic-auth" },
+      h("div", { class: "cic-a" }, h("span", { class: "cic-a-n" }, "1"),
+        h("div", {}, h("b", {}, "Create an API token"), h("p", { html: fmt("Template *Edit Cloudflare Workers*, scoped to one account.") }))),
+      h("div", { class: "cic-a" }, h("span", { class: "cic-a-n" }, "2"),
+        h("div", {}, h("b", {}, "Store it as a CI secret"), h("p", { html: fmt("`CLOUDFLARE_API_TOKEN` and `CLOUDFLARE_ACCOUNT_ID`") })))),
+    codeWindow(ctx, [
+      { label: "GitHub Actions", icon: brand("githubactions", 15), file: ".github/workflows/deploy.yml", lang: "yaml", code: CI_GHA, hl: [11, 12, 13, 14] },
+      { label: "GitLab CI/CD", icon: brand("gitlab", 15), file: ".gitlab-ci.yml", lang: "yaml", code: CI_GITLAB, hl: [11] },
+    ], { w: 800, h: 470, max: 19, delay: 460, style: "flex:1" }),
+    h("p", { class: "cic-note", html: fmt("Anything that can run `npx wrangler deploy` works the same way: Jenkins, Buildkite, CircleCI…") }));
+}
+
+// Previews: one Worker, a lane per branch. Each push to a lane redeploys its Preview.
+function pvwPanel(ctx) {
+  const LANES = [
+    { br: "main", y: 44, col: "var(--orange)", kind: "Production", url: "acme-app.acme.workers.dev", cmd: "npx wrangler deploy" },
+    { br: "feature/login", y: 150, col: "var(--blue)", kind: "Preview", url: "feature-login-acme-app.acme.workers.dev", cmd: "npx wrangler preview" },
+    { br: "fix-api", y: 256, col: "var(--violet)", kind: "Preview", url: "fix-api-acme-app.acme.workers.dev", cmd: "npx wrangler preview" },
+  ];
+  const IDS = ["c90e1d38", "8f3a1c2e", "3c5e7f10", "b71d09aa", "e2a94b67", "5d07b3e1", "a41f9c25", "7b2f6a04", "19d4c8e3", "f06b2d71", "2e8c4a90"];
+  const svg = S("svg", { class: "pvw-svg", viewBox: "0 0 600 300", width: 600, height: 300 });
+  ["M16 44H600", "M120 44C172 44 160 150 212 150H600", "M300 44C352 44 340 256 392 256H600"]
+    .forEach((d, i) => svg.append(S("path", { d, class: "pvw-ln", style: `stroke:${LANES[i].col}` })));
+  [[16, 24], [214, 132], [394, 238]].forEach(([x, y], i) => svg.append(S("text", { x, y, class: "pvw-lb", style: `fill:${LANES[i].col}`, text: LANES[i].br })));
+  [40, 120, 300].forEach((x) => svg.append(S("circle", { cx: x, cy: 44, r: 7, class: "pvw-c", style: `stroke:${LANES[0].col}` })));
+  const cards = LANES.map((l, i) => {
+    const dep = h("code", {}), st = h("span", { class: "pvw-st" });
+    const el = h("div", { class: "pvw-card", style: `--lc:${l.col}` },
+      h("div", { class: "pvw-ch" }, h("span", { class: "pvw-k" }, l.kind), h("span", { class: "pvw-b" }, ico("git"), l.br), st),
+      h("div", { class: "pvw-u" }, l.url),
+      h("div", { class: "pvw-m" }, h("span", {}, "deploy ", dep), h("span", { class: "pvw-cmd" }, l.cmd)));
+    return { el, dep, st };
+  });
+  const depUrl = h("code", {});
+  const legend = h("div", { class: "pvw-leg" },
+    h("div", { class: "pvw-lr" }, h("b", {}, "Preview URL"), h("span", {}, "always the branch\u2019s latest deploy"), h("code", {}, LANES[1].url)),
+    h("div", { class: "pvw-lr" }, h("b", {}, "Deployment URL"), h("span", {}, "pinned to one deploy, never changes"), depUrl));
+  const ready = '<i class="pvw-dot"></i>ready';
+  const added = [];
+  let idn = 3;
+  const reset = () => {
+    added.splice(0).forEach((c) => c.remove());
+    cards.forEach((c, i) => { c.dep.textContent = IDS[i].slice(0, 7); c.el.classList.remove("busy", "flash"); c.st.innerHTML = ready; });
+    depUrl.textContent = `${IDS[1]}-acme-app.acme.workers.dev`;
+    idn = 3;
+  };
+  const deploy = async (li, x) => {
+    const c = S("circle", { cx: x, cy: LANES[li].y, r: 7, class: "pvw-c new", style: `stroke:${LANES[li].col}` });
+    svg.append(c); added.push(c);
+    const card = cards[li];
+    card.el.classList.add("busy");
+    card.st.innerHTML = '<i class="pvw-spin"></i>deploying';
+    await ctx.sleep(1100);
+    const id = IDS[idn++ % IDS.length];
+    card.dep.textContent = id.slice(0, 7);
+    card.el.classList.remove("busy");
+    card.el.classList.add("flash");
+    card.st.innerHTML = ready;
+    if (li === 1) depUrl.textContent = `${id}-acme-app.acme.workers.dev`;
+    await ctx.sleep(900);
+    card.el.classList.remove("flash");
+  };
+  const EV = [[1, 262], [0, 200], [1, 360], [2, 440], [1, 470], [0, 420], [2, 540], [1, 566]];
+  ctx.loop(async () => {
+    reset();
+    await ctx.sleep(600);
+    for (const [li, x] of EV) { await deploy(li, x); await ctx.sleep(700); }
+    await ctx.sleep(2600);
+  }, 300);
+  return panel("one Worker \u00b7 a Preview per branch", { icon: "git", right: "git push \u2192 Preview" },
+    h("div", { class: "pvw-body" },
+      h("div", { class: "pvw-g" }, svg, h("div", { class: "pvw-cards" }, cards.map((c) => c.el))),
+      legend));
+}
+
+const PVW_CFG = `{
+  "name": "acme-app",
+  "vars": { "ENVIRONMENT": "production" },
+  "r2_buckets": [
+    { "binding": "UPLOADS", "bucket_name": "prod-uploads" }
+  ],
+  "previews": {
+    // not inherited: each Preview gets these instead
+    "vars": { "ENVIRONMENT": "preview" },
+    "r2_buckets": [
+      { "binding": "UPLOADS", "bucket_name": "r2-staging" }
+    ]
+  }
+}`;
+
+DEMO_CSS += `
+.cic-top{display:flex;align-items:flex-end;justify-content:space-between;gap:48px;margin-bottom:26px}
+.cic-top .lead{font-size:21px;max-width:760px;text-align:right}
+.cic-cols{flex:1;display:grid;grid-template-columns:1fr 1fr;gap:24px;min-height:0}
+.cic-col{position:relative;display:flex;flex-direction:column;gap:14px;padding:22px 24px;border:1px solid var(--line);border-radius:22px;background:var(--panel);min-height:0;overflow:hidden}
+.cic-col::before{content:"";position:absolute;inset:0;background:radial-gradient(520px 200px at 0% 0%,color-mix(in srgb,var(--orange) 8%,transparent),transparent 70%);pointer-events:none}
+.cic-col>*{position:relative}
+.cic-col>.code{flex:1;min-height:0}
+.cic-h{display:flex;align-items:center;gap:14px}
+.cic-n{flex:none;width:40px;height:40px;border-radius:12px;display:grid;place-items:center;font-family:var(--mono);font-size:15px;font-weight:700;color:var(--orange);border:1px solid var(--o-line);background:var(--o-soft)}
+.cic-ht{display:flex;flex-direction:column;gap:3px}
+.cic-ht h3{font-size:28px;font-weight:720;letter-spacing:-.02em;line-height:1.1}
+.cic-ht span{font-family:var(--mono);font-size:13px;letter-spacing:.12em;text-transform:uppercase;color:var(--fg3)}
+.cic-src{margin-left:auto;display:flex;align-items:center;gap:10px}
+.cic-src>span{width:46px;height:46px;border-radius:13px;display:grid;place-items:center;border:1px solid var(--line2);background:var(--card)}
+.cic-src .brand,.cic-art svg{width:26px;height:26px}
+.cic-art{color:var(--orange)}
+.cic-d{font-size:18px;line-height:1.45;color:var(--fg2)}
+.cic-pl{display:flex;flex-direction:column;gap:14px;padding:16px 20px;border:1px solid var(--line);border-radius:18px;background:var(--code-bg)}
+.cic-brs{display:flex;align-items:center;gap:8px}
+.cic-brs-l{font-family:var(--mono);font-size:13px;color:var(--fg3);margin-right:4px}
+.cic-br{display:inline-flex;align-items:center;gap:7px;font-family:var(--mono);font-size:14px;padding:5px 11px;border-radius:99px;border:1px solid var(--line);color:var(--fg3);transition:color .5s,border-color .5s,background .5s}
+.cic-br .ico{width:15px;height:15px}
+.cic-br.on{color:var(--orange);border-color:var(--o-line);background:var(--o-soft)}
+.cic-pipe{display:flex;align-items:flex-start}
+.cic-st{flex:1;min-width:0;display:flex;flex-direction:column;align-items:center;gap:6px;text-align:center}
+.cic-st-ic{position:relative;width:52px;height:52px;border-radius:15px;display:grid;place-items:center;border:1px solid var(--line2);background:var(--panel);color:var(--fg3);transition:color .6s,border-color .6s,background .6s}
+.cic-st-ic svg{width:24px;height:24px}
+.cic-st b{font-size:17px;font-weight:650;color:var(--fg2);transition:color .4s}
+.cic-st-s{max-width:100%;font-family:var(--mono);font-size:12.5px;color:var(--fg3);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.cic-st.run .cic-st-ic{color:var(--orange);border-color:var(--o-line);animation:cicPulse 1.1s ease-in-out infinite}
+.cic-st.ok .cic-st-ic{color:var(--orange);border-color:var(--o-line);background:var(--o-soft)}
+.cic-st.ok:last-child .cic-st-ic{color:var(--green);border-color:color-mix(in srgb,var(--green) 45%,transparent);background:color-mix(in srgb,var(--green) 12%,transparent)}
+.cic-st.ok b,.cic-st.run b{color:var(--fg)}
+@keyframes cicPulse{50%{box-shadow:0 0 0 8px var(--o-soft)}}
+.cic-cn{flex:0 0 36px;height:2px;margin-top:25px;border-radius:2px;background:var(--line2);position:relative;overflow:hidden}
+.cic-cn::after{content:"";position:absolute;inset:0;background:var(--orange);transform:scaleX(0);transform-origin:left;transition:transform .45s ease}
+.cic-cn.on::after{transform:none}
+.cic-res{display:flex;align-items:center;gap:10px;min-height:44px;padding:9px 14px;border-radius:12px;border:1px solid var(--line);background:var(--panel);font-size:16px;color:var(--fg2);opacity:0;transform:translateY(6px);transition:opacity .6s ease,transform .6s var(--spring)}
+.cic-res.show{opacity:1;transform:none}
+.cic-res .brand{flex:none}
+.cic-ok{flex:none;width:20px;height:20px;display:grid;color:var(--green)}.cic-ok svg{width:20px;height:20px}
+.cic-facts{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.cic-f,.cic-a{display:flex;gap:12px;align-items:flex-start;padding:13px 16px;border:1px solid var(--line);border-radius:14px;background:var(--panel)}
+.cic-f-ic{flex:none;width:34px;height:34px;border-radius:10px;display:grid;place-items:center;border:1px solid var(--line2);color:var(--orange)}
+.cic-f-ic svg{width:18px;height:18px}
+.cic-f b,.cic-a b{display:block;font-size:17px;font-weight:650;margin-bottom:3px}
+.cic-f p,.cic-a p{font-size:15px;line-height:1.4;color:var(--fg2)}
+.cic-lim{display:flex;flex-wrap:wrap;gap:8px;margin-top:auto}
+.cic-lim span{font-family:var(--mono);font-size:13px;color:var(--fg3);padding:5px 10px;border-radius:99px;border:1px solid var(--line)}
+.cic-auth{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.cic-a-n{flex:none;width:28px;height:28px;border-radius:99px;display:grid;place-items:center;font-family:var(--mono);font-size:14px;font-weight:700;color:var(--orange);border:1px solid var(--o-line);background:var(--o-soft)}
+.cic-note{font-size:15px;color:var(--fg3)}
+.pvw-main{flex:1;min-height:0;display:grid;grid-template-columns:1fr 640px;gap:24px}
+.pvw-body{flex:1;display:flex;flex-direction:column;justify-content:center;gap:18px;padding:20px 24px}
+.pvw-g{display:grid;grid-template-columns:600px 1fr;gap:20px}
+.pvw-svg{display:block;width:600px;height:300px;overflow:visible}
+.pvw-ln{fill:none;stroke-width:3;stroke-linecap:round;opacity:.85}
+.pvw-lb{font-family:var(--mono);font-size:15px;font-weight:600}
+.pvw-c{fill:var(--code-bg);stroke-width:3}
+.pvw-c.new{animation:pvwPop .7s var(--spring) both;transform-box:fill-box;transform-origin:center}
+@keyframes pvwPop{from{transform:scale(0);opacity:0}to{transform:none;opacity:1}}
+.pvw-cards{height:300px;display:flex;flex-direction:column;justify-content:space-between;min-width:0}
+.pvw-card{height:88px;min-width:0;display:flex;flex-direction:column;justify-content:center;gap:4px;padding:10px 14px;border:1px solid var(--line);border-left:3px solid var(--lc);border-radius:14px;background:var(--panel);transition:box-shadow .6s ease,background .5s ease}
+.pvw-card.flash{box-shadow:0 0 0 4px color-mix(in srgb,var(--lc) 22%,transparent);background:color-mix(in srgb,var(--lc) 7%,var(--panel))}
+.pvw-ch{display:flex;align-items:center;gap:10px;font-size:13px}
+.pvw-k{font-family:var(--mono);font-size:12px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--lc)}
+.pvw-b{display:inline-flex;align-items:center;gap:5px;font-family:var(--mono);color:var(--fg3)}
+.pvw-b .ico{width:13px;height:13px}
+.pvw-st{margin-left:auto;display:inline-flex;align-items:center;gap:6px;font-family:var(--mono);font-size:12px;color:var(--fg3)}
+.pvw-dot{width:7px;height:7px;border-radius:9px;background:var(--green)}
+.pvw-spin{width:11px;height:11px;border-radius:99px;border:2px solid var(--line2);border-top-color:var(--lc);animation:spin .8s linear infinite}
+.pvw-u{font-family:var(--mono);font-size:14.5px;color:var(--fg);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.pvw-m{display:flex;align-items:center;justify-content:space-between;gap:10px;font-family:var(--mono);font-size:12.5px;color:var(--fg3)}
+.pvw-m code,.pvw-cmd{color:var(--fg2)}
+.pvw-leg{display:flex;flex-direction:column;gap:8px;padding-top:16px;border-top:1px solid var(--line)}
+.pvw-lr{display:grid;grid-template-columns:170px 1fr auto;align-items:center;gap:14px;font-size:16px;color:var(--fg2)}
+.pvw-lr b{font-weight:650;color:var(--fg)}
+.pvw-lr code{font-family:var(--mono);font-size:14px;padding:4px 10px;border-radius:8px;border:1px solid var(--line);background:var(--code-bg);color:var(--fg)}
+.pvw-fs{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin-top:20px}
+.pvw-f{display:flex;flex-direction:column;gap:8px;padding:16px 20px;border:1px solid var(--line);border-radius:18px;background:var(--panel)}
+.pvw-f-h{display:flex;align-items:center;gap:10px}
+.pvw-f-ic{flex:none;width:34px;height:34px;border-radius:10px;display:grid;place-items:center;border:1px solid var(--line2);color:var(--orange)}
+.pvw-f-ic svg{width:18px;height:18px}
+.pvw-f b{font-size:18px;font-weight:650}
+.pvw-f p{font-size:15.5px;line-height:1.42;color:var(--fg2)}
+.export .cic-res,.export .cic-cn::after,.export .cic-st-ic,.export .cic-br,.export .pvw-card{transition:none!important}
+.export .pvw-c.new,.export .cic-st-ic{animation:none!important}
+`;
+
 // ---------- speaker + QR (cover and closing slides) ----------
 const speakerMeta = () => h("div", { class: "cover-meta" }, h("div", { class: "who" }, h("b", {}, DECK.speaker.name), h("span", {}, DECK.speaker.title)));
 
@@ -4893,7 +5186,7 @@ const SLIDES = [
   {
     sec: 0, name: "Agenda", render: () => h("div", { class: "agenda" },
       [
-        ["Intro", "One programming model, deployed everywhere", []],
+        ["Intro", "One programming model, from laptop to production", []],
         ["Platform overview", `${NPRIM} building blocks and how they fit together`, []],
         ["Compute", "Run code: functions, containers, actors, workflows, sandboxes", FAMILIES[0].keys],
         ["Storage", "Objects, SQL, key-value, streams, analytics, git", FAMILIES[1].keys],
@@ -4996,6 +5289,28 @@ const SLIDES = [
         { i: "refresh", t: "Gradual rollouts", d: "Versions, percentage-based deployments and instant rollbacks." },
         { i: "eye", t: "Observability built in", d: "Logs, traces and `wrangler tail` out of the box." },
       ], 300))),
+  },
+  {
+    sec: 0, name: "Ship from git", crumb: "CI/CD · Workers Builds & external CI", docs: "workers/ci-cd/builds",
+    render: (ctx) => h("div", { class: "colv", style: "flex:1;gap:0" },
+      cicTop("From `git push` to **production**", "Two paths: let **Workers Builds** build every push, or run `wrangler` from the CI you already use."),
+      h("div", { class: "cic-cols" }, A(ciBuildsCard(ctx), 160), A(ciExternalCard(ctx), 300))),
+  },
+  {
+    sec: 0, name: "Previews", crumb: "CI/CD · Previews", docs: "workers/previews",
+    render: (ctx) => h("div", { class: "colv", style: "flex:1;gap:0" },
+      cicTop("A **Preview** for every branch", "Each branch gets an isolated, production-like copy of your Worker, with *its own* settings, URL and logs."),
+      h("div", { class: "pvw-main" },
+        A(pvwPanel(ctx), 160),
+        codeWindow(ctx, { file: "wrangler.jsonc", lang: "jsonc", code: PVW_CFG, hl: [7, 8, 9, 10, 11, 12, 13] }, { w: 640, h: 520, max: 18, delay: 300 })),
+      h("div", { class: "pvw-fs" }, [
+        ["layers", "Own vars, secrets & bindings", "Set in the `previews` block, never inherited from production. Point bindings at staging resources."],
+        ["box", "Fresh Durable Objects", "Each Preview automatically gets its own Durable Object namespace and container instances."],
+        ["lock", "Public or private", "Preview URLs are public by default (`noindex` on workers.dev). Require sign-in with Cloudflare Access."],
+        ["refresh", "Cleans up after itself", "Up to 100 Previews per Worker on Free, 500 on paid. The least recently deployed is removed first."],
+      ].map(([i, t, d], k) => A(h("div", { class: "pvw-f" },
+        h("div", { class: "pvw-f-h" }, h("span", { class: "pvw-f-ic", html: icoSvg(i) }), h("b", {}, t)),
+        h("p", { html: fmt(d) })), 520 + k * 90)))),
   },
 
   // ===== 02 Overview =====
