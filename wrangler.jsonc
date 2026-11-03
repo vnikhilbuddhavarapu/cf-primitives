@@ -1,0 +1,24 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "cf-primitives",
+  "main": "src/worker.js",
+  "compatibility_date": "2025-09-01",
+
+  // The deck itself is static: index.html + client.js served from ./public.
+  // Only /api/* (the live-demo WebSocket) runs the Worker first.
+  "assets": {
+    "directory": "./public",
+    "binding": "ASSETS",
+    "not_found_handling": "single-page-application",
+    "run_worker_first": ["/api/*"]
+  },
+
+  // One Durable Object instance ("deck") backs the live counter + whiteboard
+  // for everyone viewing this deployment.
+  "durable_objects": {
+    "bindings": [{ "name": "DECK", "class_name": "DeckRoom" }]
+  },
+  "migrations": [{ "tag": "v1", "new_sqlite_classes": ["DeckRoom"] }],
+
+  "observability": { "enabled": true }
+}
